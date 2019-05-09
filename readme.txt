@@ -7,4 +7,8 @@ Creating a new branch is quick.
 2222222
 111111
 
+<<<<<<< Updated upstream
 44444
+=======
+4444
+>>>>>>> Stashed changes
